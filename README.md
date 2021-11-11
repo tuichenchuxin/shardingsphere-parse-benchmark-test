@@ -1,4 +1,6 @@
 # shardingsphere-parse-benchmark-test
 
-mvn clean verify    
+```
+mvn clean verif
 java -jar target/benchmarks.jar
+```
